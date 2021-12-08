@@ -1,6 +1,6 @@
 --loadstring(game:HttpGet("https://pastebin.com/raw/gVPBU5J5"))()
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/xSaigez/MIDNIGHT/main/MIDNIGHT"))()
--------------------------BF-------------------------
+-------------------------BF--------------------------
 
 if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then
 	do  local ui =  game:GetService("CoreGui"):FindFirstChild("redui")  if ui then ui:Destroy() end end
